@@ -4,11 +4,11 @@
 		<engineLink>https://wordpress.org/</engineLink>
 		<homePageLink>https://children4peacec4p.org/</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://children4peacec4p.org/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://children4peacec4p.org/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://children4peacec4p.org/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://children4peacec4p.org/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://children4peacec4p.org/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="wp-json/" />
 			</apis>
 	</service>
 </rsd>
